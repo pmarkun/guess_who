@@ -1,0 +1,942 @@
+{
+  "300098": {
+    "area": "Desenvolvimento Regional",
+    "base": "Presidente Prudente e região",
+    "local_img": "data/deputados/300098.jpg",
+    "matricula": "300098",
+    "nome": "Mauro Bragato",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300098"
+  },
+  "300188": {
+    "area": "Agricultura",
+    "base": "Capital",
+    "local_img": "data/deputados/300188.jpg",
+    "matricula": "300188",
+    "nome": "Barros Munhoz",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300188"
+  },
+  "300205": {
+    "area": "Segurança Pública",
+    "base": "Capital",
+    "local_img": "data/deputados/300205.jpg",
+    "matricula": "300205",
+    "nome": "Conte Lopes",
+    "partido": "PTB",
+    "partido_img": "data/partidos/ptb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300205"
+  },
+  "300217": {
+    "area": "Justiça",
+    "base": "Capital",
+    "local_img": "data/deputados/300217.jpg",
+    "matricula": "300217",
+    "nome": "Campos Machado",
+    "partido": "PTB",
+    "partido_img": "data/partidos/ptb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300217"
+  },
+  "300260": {
+    "area": "Educação",
+    "base": "Região Noroeste do Estado",
+    "local_img": "data/deputados/300260.jpg",
+    "matricula": "300260",
+    "nome": "Roque Barbiere",
+    "partido": "PTB",
+    "partido_img": "data/partidos/ptb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300260"
+  },
+  "300264": {
+    "area": "Comunicação",
+    "base": "Ribeirão Preto e região",
+    "local_img": "data/deputados/300264.jpg",
+    "matricula": "300264",
+    "nome": "Léo Oliveira",
+    "partido": "MDB",
+    "partido_img": "data/partidos/mdb_p.jpg",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300264"
+  },
+  "300267": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300267.jpg",
+    "matricula": "300267",
+    "nome": "Roberto Engler",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300267"
+  },
+  "300292": {
+    "area": "Transportes",
+    "base": "Região Bragantina e do Circuito das Águas",
+    "local_img": "data/deputados/300292.jpg",
+    "matricula": "300292",
+    "nome": "Edmir Chedid",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300292"
+  },
+  "300303": {
+    "area": "Gestão Pública",
+    "base": "Capital",
+    "local_img": "data/deputados/300303.jpg",
+    "matricula": "300303",
+    "nome": "Estevam Galvão",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300303"
+  },
+  "300318": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300318.jpg",
+    "matricula": "300318",
+    "nome": "Edna Macedo",
+    "partido": "PRB",
+    "partido_img": "data/partidos/prb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300318"
+  },
+  "300344": {
+    "area": "Políticas para Pessoas com Deficiência",
+    "base": "Ribeirão Preto e região",
+    "local_img": "data/deputados/300344.jpg",
+    "matricula": "300344",
+    "nome": "Rafael Silva",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300344"
+  },
+  "300367": {
+    "area": "Segurança Pública",
+    "base": "Interior",
+    "local_img": "data/deputados/300367.jpg",
+    "matricula": "300367",
+    "nome": "Jorge Caruso",
+    "partido": "MDB",
+    "partido_img": "data/partidos/mdb_p.jpg",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300367"
+  },
+  "300382": {
+    "area": "Social",
+    "base": "São Paulo (Capital)",
+    "local_img": "data/deputados/300382.jpg",
+    "matricula": "300382",
+    "nome": "Roberto Morais",
+    "partido": "PPS",
+    "partido_img": "data/partidos/pps.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300382"
+  },
+  "300395": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300395.jpg",
+    "matricula": "300395",
+    "nome": "Emidio de Souza",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300395"
+  },
+  "300407": {
+    "area": "Saúde",
+    "base": "Indaiatuba",
+    "local_img": "data/deputados/300407.jpg",
+    "matricula": "300407",
+    "nome": "Rogério Nogueira",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300407"
+  },
+  "300415": {
+    "area": "Desenvolvimento Regional",
+    "base": "Região Sudoeste do Estado",
+    "local_img": "data/deputados/300415.jpg",
+    "matricula": "300415",
+    "nome": "Maria Lúcia Amary",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300415"
+  },
+  "300430": {
+    "area": "Não Específica",
+    "base": "Marília e região",
+    "local_img": "data/deputados/300430.jpg",
+    "matricula": "300430",
+    "nome": "Vinícius Camarinha",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300430"
+  },
+  "300431": {
+    "area": "Não Específica",
+    "base": "Taboão da Serra",
+    "local_img": "data/deputados/300431.jpg",
+    "matricula": "300431",
+    "nome": "Analice Fernandes",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300431"
+  },
+  "300435": {
+    "area": "Social",
+    "base": "São José do Rio Preto e região",
+    "local_img": "data/deputados/300435.jpg",
+    "matricula": "300435",
+    "nome": "Beth Sahão",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300435"
+  },
+  "300440": {
+    "area": "Educação",
+    "base": "São Paulo (Capital e Interior)",
+    "local_img": "data/deputados/300440.jpg",
+    "matricula": "300440",
+    "nome": "Enio Tatto",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300440"
+  },
+  "300450": {
+    "area": "Juventude",
+    "base": "São Paulo e região",
+    "local_img": "data/deputados/300450.jpg",
+    "matricula": "300450",
+    "nome": "Gilmaci Santos",
+    "partido": "PRB",
+    "partido_img": "data/partidos/prb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300450"
+  },
+  "300454": {
+    "area": "Social",
+    "base": "Presidente Prudente e região",
+    "local_img": "data/deputados/300454.jpg",
+    "matricula": "300454",
+    "nome": "Ed Thomas",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300454"
+  },
+  "300470": {
+    "area": "Social",
+    "base": "Alta Paulista",
+    "local_img": "data/deputados/300470.jpg",
+    "matricula": "300470",
+    "nome": "Reinaldo Alguz",
+    "partido": "PV",
+    "partido_img": "data/partidos/pv.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300470"
+  },
+  "300471": {
+    "area": "Movimentos Populares",
+    "base": "Capital - Zona Norte",
+    "local_img": "data/deputados/300471.jpg",
+    "matricula": "300471",
+    "nome": "Marcos Zerbini",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300471"
+  },
+  "300483": {
+    "area": "Administração de Empresas",
+    "base": "Capital",
+    "local_img": "data/deputados/300483.jpg",
+    "matricula": "300483",
+    "nome": "Milton Leite Filho",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300483"
+  },
+  "300485": {
+    "area": "Funcionalismo Público",
+    "base": "Capital",
+    "local_img": "data/deputados/300485.jpg",
+    "matricula": "300485",
+    "nome": "Carlos Giannazi",
+    "partido": "PSOL",
+    "partido_img": "data/partidos/psol.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300485"
+  },
+  "300497": {
+    "area": "Infraestrutura",
+    "base": "Vale do Ribeira",
+    "local_img": "data/deputados/300497.jpg",
+    "matricula": "300497",
+    "nome": "André do Prado",
+    "partido": "PR",
+    "partido_img": "data/partidos/pr.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300497"
+  },
+  "300499": {
+    "area": "Social",
+    "base": "Região Noroeste do Estado",
+    "local_img": "data/deputados/300499.jpg",
+    "matricula": "300499",
+    "nome": "Carlão Pignatari",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300499"
+  },
+  "300501": {
+    "area": "Segurança",
+    "base": "Sorocaba e região",
+    "local_img": "data/deputados/300501.jpg",
+    "matricula": "300501",
+    "nome": "Carlos Cezar",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300501"
+  },
+  "300503": {
+    "area": "Terceira Idade",
+    "base": "Americana",
+    "local_img": "data/deputados/300503.jpg",
+    "matricula": "300503",
+    "nome": "Cauê Macris",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300503"
+  },
+  "300510": {
+    "area": "Desenvolvimento Regional",
+    "base": "Araçatuba e região",
+    "local_img": "data/deputados/300510.jpg",
+    "matricula": "300510",
+    "nome": "Itamar Borges",
+    "partido": "MDB",
+    "partido_img": "data/partidos/mdb_p.jpg",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300510"
+  },
+  "300513": {
+    "area": "Igualdade Racial",
+    "base": "Não específica",
+    "local_img": "data/deputados/300513.jpg",
+    "matricula": "300513",
+    "nome": "Leci Brandão",
+    "partido": "PC do B",
+    "partido_img": "data/partidos/pcdob.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300513"
+  },
+  "300519": {
+    "area": "Educação",
+    "base": "Sudoeste Paulista",
+    "local_img": "data/deputados/300519.jpg",
+    "matricula": "300519",
+    "nome": "Rodrigo Moraes",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300519"
+  },
+  "300520": {
+    "area": "Piscicultura",
+    "base": "Barretos",
+    "local_img": "data/deputados/300520.jpg",
+    "matricula": "300520",
+    "nome": "Sebastião Santos",
+    "partido": "PRB",
+    "partido_img": "data/partidos/prb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300520"
+  },
+  "300533": {
+    "area": "Direitos dos Cidadãos",
+    "base": "Capital",
+    "local_img": "data/deputados/300533.jpg",
+    "matricula": "300533",
+    "nome": "Marta Costa",
+    "partido": "PSD",
+    "partido_img": "data/partidos/psd.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300533"
+  },
+  "300534": {
+    "area": "Participação Popular",
+    "base": "Araraquara",
+    "local_img": "data/deputados/300534.jpg",
+    "matricula": "300534",
+    "nome": "Márcia Lia",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300534"
+  },
+  "300536": {
+    "area": "Assistência Social e Religiosa",
+    "base": "Baixada Santista",
+    "local_img": "data/deputados/300536.jpg",
+    "matricula": "300536",
+    "nome": "Paulo Correa Jr",
+    "partido": "PATRI",
+    "partido_img": "data/partidos/patriotas.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300536"
+  },
+  "300539": {
+    "area": "Obras Públicas",
+    "base": "Santa Cruz do Rio Pardo e região",
+    "local_img": "data/deputados/300539.jpg",
+    "matricula": "300539",
+    "nome": "Ricardo Madalena",
+    "partido": "PR",
+    "partido_img": "data/partidos/pr.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300539"
+  },
+  "300540": {
+    "area": "Desenvolvimento Regional",
+    "base": "Vale do Ribeira",
+    "local_img": "data/deputados/300540.jpg",
+    "matricula": "300540",
+    "nome": "Caio França",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300540"
+  },
+  "300543": {
+    "area": "Segurança Pública",
+    "base": "Capital",
+    "local_img": "data/deputados/300543.jpg",
+    "matricula": "300543",
+    "nome": "Delegado Olim",
+    "partido": "PP",
+    "partido_img": "data/partidos/pp.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300543"
+  },
+  "300544": {
+    "area": "Comunicação",
+    "base": "Capital",
+    "local_img": "data/deputados/300544.jpg",
+    "matricula": "300544",
+    "nome": "José Américo",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300544"
+  },
+  "300545": {
+    "area": "Habitação",
+    "base": "São Bernardo do Campo",
+    "local_img": "data/deputados/300545.jpg",
+    "matricula": "300545",
+    "nome": "Luiz Fernando T. Ferreira",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300545"
+  },
+  "300548": {
+    "area": "Segurança Pública",
+    "base": "Capital",
+    "local_img": "data/deputados/300548.jpg",
+    "matricula": "300548",
+    "nome": "Coronel Telhada",
+    "partido": "PP",
+    "partido_img": "data/partidos/pp.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300548"
+  },
+  "300549": {
+    "area": "Defesa dos Direitos do Consumidor",
+    "base": "Guarulhos",
+    "local_img": "data/deputados/300549.jpg",
+    "matricula": "300549",
+    "nome": "Jorge Wilson Xerife do Consumidor",
+    "partido": "PRB",
+    "partido_img": "data/partidos/prb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300549"
+  },
+  "300552": {
+    "area": "Empreendedorismo",
+    "base": "Alto Tietê",
+    "local_img": "data/deputados/300552.jpg",
+    "matricula": "300552",
+    "nome": "Marcos Damasio",
+    "partido": "PR",
+    "partido_img": "data/partidos/pr.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300552"
+  },
+  "300553": {
+    "area": "Políticas Sociais",
+    "base": "Jundiaí",
+    "local_img": "data/deputados/300553.jpg",
+    "matricula": "300553",
+    "nome": "Alexandre Pereira",
+    "partido": "SD",
+    "partido_img": "data/partidos/solidariedade.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300553"
+  },
+  "300583": {
+    "area": "Agricultura e Pecuária",
+    "base": "Botucatu",
+    "local_img": "data/deputados/300583.jpg",
+    "matricula": "300583",
+    "nome": "Fernando Cury",
+    "partido": "PPS",
+    "partido_img": "data/partidos/pps.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300583"
+  },
+  "300584": {
+    "area": "Sindical",
+    "base": "São Bernardo do Campo",
+    "local_img": "data/deputados/300584.jpg",
+    "matricula": "300584",
+    "nome": "Teonilio Barba",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300584"
+  },
+  "300589": {
+    "area": "Comunicação",
+    "base": "Capital",
+    "local_img": "data/deputados/300589.jpg",
+    "matricula": "300589",
+    "nome": "Wellington Moura",
+    "partido": "PRB",
+    "partido_img": "data/partidos/prb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300589"
+  },
+  "300605": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300605.jpg",
+    "matricula": "300605",
+    "nome": "Adalberto Freitas",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300605"
+  },
+  "300606": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300606.jpg",
+    "matricula": "300606",
+    "nome": "Adriana Borgo",
+    "partido": "PROS",
+    "partido_img": "data/partidos/pros.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300606"
+  },
+  "300607": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300607.jpg",
+    "matricula": "300607",
+    "nome": "Agente Federal Danilo Balas",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300607"
+  },
+  "300608": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300608.jpg",
+    "matricula": "300608",
+    "nome": "Alex de Madureira",
+    "partido": "PSD",
+    "partido_img": "data/partidos/psd.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300608"
+  },
+  "300609": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300609.jpg",
+    "matricula": "300609",
+    "nome": "Altair Moraes",
+    "partido": "PRB",
+    "partido_img": "data/partidos/prb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300609"
+  },
+  "300610": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300610.jpg",
+    "matricula": "300610",
+    "nome": "Aprigio",
+    "partido": "PODE",
+    "partido_img": "data/partidos/podemos_p.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300610"
+  },
+  "300611": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300611.jpg",
+    "matricula": "300611",
+    "nome": "Arthur do Val",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300611"
+  },
+  "300612": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300612.jpg",
+    "matricula": "300612",
+    "nome": "Ataide Teruel",
+    "partido": "PODE",
+    "partido_img": "data/partidos/podemos_p.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300612"
+  },
+  "300613": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300613.jpg",
+    "matricula": "300613",
+    "nome": "Bruno Ganem",
+    "partido": "PODE",
+    "partido_img": "data/partidos/podemos_p.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300613"
+  },
+  "300614": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300614.jpg",
+    "matricula": "300614",
+    "nome": "Carla Morando",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300614"
+  },
+  "300615": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300615.jpg",
+    "matricula": "300615",
+    "nome": "Castello Branco",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300615"
+  },
+  "300616": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300616.jpg",
+    "matricula": "300616",
+    "nome": "Cezar",
+    "partido": "PSDB",
+    "partido_img": "data/partidos/psdb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300616"
+  },
+  "300617": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300617.jpg",
+    "matricula": "300617",
+    "nome": "Coronel Nishikawa",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300617"
+  },
+  "300618": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300618.jpg",
+    "matricula": "300618",
+    "nome": "Daniel José",
+    "partido": "NOVO",
+    "partido_img": "data/partidos/novo.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300618"
+  },
+  "300619": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300619.jpg",
+    "matricula": "300619",
+    "nome": "Daniel Soares",
+    "partido": "DEM",
+    "partido_img": "data/partidos/dem.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300619"
+  },
+  "300620": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300620.jpg",
+    "matricula": "300620",
+    "nome": "Delegada Graciela",
+    "partido": "PR",
+    "partido_img": "data/partidos/pr.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300620"
+  },
+  "300621": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300621.jpg",
+    "matricula": "300621",
+    "nome": "Delegado Bruno Lima",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300621"
+  },
+  "300622": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300622.jpg",
+    "matricula": "300622",
+    "nome": "Douglas Garcia",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300622"
+  },
+  "300623": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300623.jpg",
+    "matricula": "300623",
+    "nome": "Dr. Jorge Do Carmo",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300623"
+  },
+  "300624": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300624.jpg",
+    "matricula": "300624",
+    "nome": "Dra. Damaris Moura",
+    "partido": "PHS",
+    "partido_img": "data/partidos/phs.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300624"
+  },
+  "300625": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300625.jpg",
+    "matricula": "300625",
+    "nome": "Erica Malunguinho",
+    "partido": "PSOL",
+    "partido_img": "data/partidos/psol.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300625"
+  },
+  "300626": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300626.jpg",
+    "matricula": "300626",
+    "nome": "Frederico d Avila",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300626"
+  },
+  "300627": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300627.jpg",
+    "matricula": "300627",
+    "nome": "Gil Diniz",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300627"
+  },
+  "300628": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300628.jpg",
+    "matricula": "300628",
+    "nome": "Heni Ozi Cukier",
+    "partido": "NOVO",
+    "partido_img": "data/partidos/novo.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300628"
+  },
+  "300629": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300629.jpg",
+    "matricula": "300629",
+    "nome": "Isa Penna",
+    "partido": "PSOL",
+    "partido_img": "data/partidos/psol.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300629"
+  },
+  "300630": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300630.jpg",
+    "matricula": "300630",
+    "nome": "Janaina Paschoal",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300630"
+  },
+  "300631": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300631.jpg",
+    "matricula": "300631",
+    "nome": "Leticia Aguiar",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300631"
+  },
+  "300632": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300632.jpg",
+    "matricula": "300632",
+    "nome": "Major Mauro",
+    "partido": "PR",
+    "partido_img": "data/partidos/pr.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300632"
+  },
+  "300633": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300633.jpg",
+    "matricula": "300633",
+    "nome": "Major Mecca",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300633"
+  },
+  "300634": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300634.jpg",
+    "matricula": "300634",
+    "nome": "Marcio Giudicio",
+    "partido": "PODE",
+    "partido_img": "data/partidos/podemos_p.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300634"
+  },
+  "300635": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300635.jpg",
+    "matricula": "300635",
+    "nome": "Marcio Nakashima",
+    "partido": "PDT",
+    "partido_img": "data/partidos/pdt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300635"
+  },
+  "300636": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300636.jpg",
+    "matricula": "300636",
+    "nome": "Marina Helou",
+    "partido": "REDE",
+    "partido_img": "data/partidos/rede.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300636"
+  },
+  "300637": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300637.jpg",
+    "matricula": "300637",
+    "nome": "Monica da Bancada Ativista",
+    "partido": "PSOL",
+    "partido_img": "data/partidos/psol.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300637"
+  },
+  "300638": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300638.jpg",
+    "matricula": "300638",
+    "nome": "Paulo Fiorilo",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300638"
+  },
+  "300639": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300639.jpg",
+    "matricula": "300639",
+    "nome": "Professor Kenny",
+    "partido": "PP",
+    "partido_img": "data/partidos/pp.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300639"
+  },
+  "300640": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300640.jpg",
+    "matricula": "300640",
+    "nome": "Professora Bebel",
+    "partido": "PT",
+    "partido_img": "data/partidos/pt.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300640"
+  },
+  "300641": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300641.jpg",
+    "matricula": "300641",
+    "nome": "Rafa Zimbaldi",
+    "partido": "PSB",
+    "partido_img": "data/partidos/psb.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300641"
+  },
+  "300642": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300642.jpg",
+    "matricula": "300642",
+    "nome": "Ricardo Mellão",
+    "partido": "NOVO",
+    "partido_img": "data/partidos/novo.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300642"
+  },
+  "300643": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300643.jpg",
+    "matricula": "300643",
+    "nome": "Rodrigo Gambale",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300643"
+  },
+  "300644": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300644.jpg",
+    "matricula": "300644",
+    "nome": "Sargento Neri",
+    "partido": "AVANTE",
+    "partido_img": "data/partidos/avante.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300644"
+  },
+  "300645": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300645.jpg",
+    "matricula": "300645",
+    "nome": "Sergio Victor",
+    "partido": "NOVO",
+    "partido_img": "data/partidos/novo.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300645"
+  },
+  "300646": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300646.jpg",
+    "matricula": "300646",
+    "nome": "Tenente Coimbra",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300646"
+  },
+  "300647": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300647.jpg",
+    "matricula": "300647",
+    "nome": "Tenente Nascimento",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300647"
+  },
+  "300648": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300648.jpg",
+    "matricula": "300648",
+    "nome": "Thiago Auricchio",
+    "partido": "PR",
+    "partido_img": "data/partidos/pr.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300648"
+  },
+  "300649": {
+    "area": "",
+    "base": "",
+    "local_img": "data/deputados/300649.jpg",
+    "matricula": "300649",
+    "nome": "Valeria Bolsonaro",
+    "partido": "PSL",
+    "partido_img": "data/partidos/psl.png",
+    "url": "https://www.al.sp.gov.br/alesp/deputado?matricula=300649"
+  }
+}
