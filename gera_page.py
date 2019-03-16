@@ -1,3 +1,4 @@
+# -*- coding: future_fstrings -*-
 from xml.dom import minidom
 import xpath
 import os
@@ -7,8 +8,11 @@ import copy
 with open("templates/page_template.svg", 'r', encoding='utf-8') as f:
   _page = minidom.parse(f)
 
-with open("dados/vereadores.json", 'r', encoding='utf-8') as f:
-  vereadores = json.load(f)
+with open("deputados.json", 'r', encoding='utf-8') as f:
+  deputados = json.load(f)
+  vereadores = []
+  for matricula, v in deputados.items():
+    vereadores.append(v)
 
 def gera_page(start, end, num):
   page = _page.cloneNode(True)
@@ -47,5 +51,5 @@ def gera_page(start, end, num):
   with open(f'output/page_{int(num)+1}.svg', 'w', encoding='utf-8') as out:
     page.writexml(out)
 
-for i in range(0, 56, 8):
+for i in range(0, 94, 8):
   gera_page(i, i+8, i/8)
